@@ -1,0 +1,8 @@
+## To build, just use the different Makefiles.
+Our benchemarks were built using the command "make timing".
+
+## The different parameters are in the common.h file.
+
+## The 4 algorithms composing the IBE are in the ibe.c file.
+
+## The sampling algorithms are in the sampling.c file.
